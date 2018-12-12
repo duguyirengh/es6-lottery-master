@@ -6,7 +6,9 @@
 
 ## 使用方法
 
-git clone 
+git clone
+
 npm install
+
 在根目录下运行命令gulp --watch(前提得先通过npm全局安装gulp)，即可启动应用，然后浏览器输入
 localhost:2018即可查看效果。
